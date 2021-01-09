@@ -247,11 +247,11 @@ we're using so far in the app!
 There are three tests to pass in this lesson. They are all related to the
 content within `src/components/App.js`.
 
-1. Replace the contents of the `h1` element so that, instead of a time, it
-   just says 'Now'
-2. Make sure to include `<ExampleComponent />` (if you have removed it)
-3. Add in a _new_ component, `<TestComponent />`, just below
-   `<ExampleComponent />`, in the `App.js` file
+<!-- 1. Replace the contents of the `h1` element so that, instead of a time, it
+   just says 'Now' -->
+<!-- 2. Make sure to include `<ExampleComponent />` (if you have removed it) -->
+<!-- 3. Add in a _new_ component, `<TestComponent />`, just below
+   `<ExampleComponent />`, in the `App.js` file -->
 
 When working on React labs, it's helpful to have two terminal tabs open:
 
